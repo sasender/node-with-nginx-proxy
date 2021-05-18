@@ -2,7 +2,7 @@
     "name": "nodeappload",
     "version": "1.0.0",
     "description": "Node.js on Docker",
-    "author": "First Last <first.last@example.com>",
+    "author": "Seoinfotech.com",
     "main": "app.js",
     "scripts": {
       "start": "node app.js"
